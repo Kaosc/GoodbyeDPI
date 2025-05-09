@@ -1,3 +1,11 @@
+```
+ -5 --set-ttl 5 --dns-addr 77.88.8.8 --dns-port 1253 --dnsv6-addr 2a02:6b8::feed:0ff --dnsv6-port 1253
+```
+
+<details>
+    <summary>GoodbyeDPI's Original Readme</summary>
+
+
 GoodbyeDPI — Deep Packet Inspection circumvention utility
 =========================
 
@@ -177,5 +185,5 @@ Modify them according to your own needs.
 # Kudos
 
 Thanks @basil00 for [WinDivert](https://github.com/basil00/Divert). That's the main part of this program.
-
 Thanks for every [BlockCheck](https://github.com/ValdikSS/blockcheck) contributor. It would be impossible to understand DPI behaviour without this utility.
+</details>
